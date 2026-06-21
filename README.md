@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shourya 👋
 
-<!--
-**ShouryaCore/ShouryaCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Goals:
+- Master Python programming
+- Solve LeetCode problems consistently
+- Build AI/ML projects
+- Contribute to open-source projects
+- Secure a strong software/AI internship
+
+## Tech Stack
+- Python
+- Git
+- GitHub
+- SQL (Learning)
+- AI/ML (Learning)
+
+## LeetCode Progress
+📈 Solving coding problems daily to improve problem-solving and DSA skills.
+
+## Current Focus
+- Python Development
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+
+## Connect With Me
+- GitHub: https://github.com/ShouryaCore
+
+---
+⭐ Always learning, building, and improving.
+
+⭐ Thanks for visiting my profile!
